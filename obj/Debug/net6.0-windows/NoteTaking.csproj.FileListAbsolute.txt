@@ -1,0 +1,17 @@
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.exe
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.deps.json
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.runtimeconfig.json
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.dll
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.pdb
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.csproj.AssemblyReference.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.csproj.GenerateResource.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.AssemblyInfoInputs.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.AssemblyInfo.cs
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.csproj.CoreCompileInputs.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.dll
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\refint\NoteTaking.dll
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.pdb
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.genruntimeconfig.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\ref\NoteTaking.dll
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.TakingNote.resources
